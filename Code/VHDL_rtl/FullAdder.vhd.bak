@@ -1,0 +1,6 @@
+ENTITY FullAdder IS
+Port(
+a, b, c_in: IN BIT;
+s, c_out: OUT BIT);
+END FullAdder;
+
